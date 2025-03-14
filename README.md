@@ -76,5 +76,4 @@ python publisher.py pub1
 - Add **QoS levels** for guaranteed message delivery.
 - Support **distributed brokers** for scalability.
 
----
 
